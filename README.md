@@ -1,0 +1,2 @@
+# MetaFuty
+ScriptForMetaFury
